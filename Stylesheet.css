@@ -1,0 +1,55 @@
+.table {
+    border: 0;
+    padding: 0;
+    border-spacing: 0;
+    width: 100%;
+}
+
+.row {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    padding-top: 5px;
+}
+
+.name {
+    text-align: center;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    color: #0084ff;
+}
+
+#occupation {
+    font-size: 24px;
+    font-weight: normal;
+}
+
+#email {
+    margin-left: 3%;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+#img {
+    height: 30%;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+#CV {
+    margin-left: 5%;
+    width: 10%;
+}
+
+#info {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-left: 15%;
+    border-left-style: solid;
+    border-width: 1px;
+    padding: 5%;
+}
